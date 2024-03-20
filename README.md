@@ -1,29 +1,61 @@
-# Hi there, Welecome to my Portfolio Sorce Code
+# Personal Portfolio
+
+This project is a personal portfolio built using React and Bootstrap. It includes various sections that showcase my skills, experiences, projects, and contact information.
+
+### Getting Started
+
+These instructions will help you set up the project on your local machine.
+
+#### Prerequisites
+
++ Node.js and npm installed
++ A code editor
++ Basic knowledge of React and Bootstrap
+
+### Installation
+
+1. Clone the project to your local machine using the following command:
+
+```bash
+git clone https://github.com/MiladCoderSoli/portfolio.git
+```
+
+2. Navigate to the project directory using the following command:
+```bash
+cd portfolio
+```
+
+3. Install the project's dependencies using the following command:
+```bash
+npm install
+```
+
+4. Start the project using the following command:
+```bash
+npm start
+```
+
+### Building the Sections
+
+The following components were created to build the different sections of the portfolio:
+
+1. NavBar
+2. Banner
+3. Skills
+4. Project
+5. Footer
+6. Contact
+
+Each component was saved in a separate folder under the ```src/components``` directory.
 
 
-This project created by [React](https://react.dev/) and [Bootstrap](https://react-bootstrap.netlify.app/).
+## I'can watch preview without installing ?
+
+Yeah, sure. You can see my Portfolio in this [site](https://miladportfolio.liara.run/) and watch under picture
+
+<img  src="/src/assets/images/readmeImg.png" alt="preview" />
 
 
-
-
-
-## how to see project preview
-*can you see this project preview in the [my website](https://miladportfolio.liara.run/)* :blue_heart:
-
-
-
-
-<img src="/src/assets/images/readmeImg.png"  alt="MarineGEO circle logo" style="height: 400px; width:400px;text-align: center;margin: 15%"/>
-
-### portfolio options
-
-1.  _responsive_
-2.  _Best UI/UX_
-3.  _can place instagram and linkedin in portfolio_
-4.  _and ..._
-
-###### 
-###### 
-
-**please give star to project :star: and follow me :sweat_smile:**
-
+### Give a star :star: for project 
+## and
+### follow me GitHub page 
