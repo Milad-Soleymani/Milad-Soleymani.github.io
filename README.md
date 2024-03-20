@@ -4,14 +4,14 @@
 This project created by [React](https://react.dev/) and [Bootstrap](https://react-bootstrap.netlify.app/).
 
 
-<hr />
+
 
 
 ## how to see project preview
 *can you see this project preview in the [my website](https://miladportfolio.liara.run/)* :blue_heart:
 
 
-<hr />
+
 
 <img src="/src/assets/images/readmeImg.png"  alt="MarineGEO circle logo" style="height: 400px; width:400px;text-align: center;margin: 15%"/>
 
