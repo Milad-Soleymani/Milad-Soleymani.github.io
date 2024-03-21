@@ -56,6 +56,13 @@ Yeah, sure. You can see my Portfolio in this [site](https://miladportfolio.liara
 <img  src="/src/assets/images/readmeImg.png" alt="preview" />
 
 
+## about portfolio
+#### -  This portfolio created by new technolorgies (React, Bootstrap)
+#### -  fully Responsive
+#### -  Top UI/UX (User Interface , User eXprince) 
+
+
+
 ### Give a star :star: for project 
-## and
+### and
 ### follow me GitHub page 
