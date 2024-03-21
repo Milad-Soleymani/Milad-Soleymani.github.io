@@ -60,9 +60,12 @@ Yeah, sure. You can see my Portfolio in this [site](https://miladportfolio.liara
 #### -  This portfolio created by new technolorgies (React, Bootstrap)
 #### -  fully Responsive
 #### -  Top UI/UX (User Interface , User eXprince) 
+#### -  Attract employers
 
+<hr />
 
+## Please 🫥
 
 ### Give a star :star: for project 
 ### and
-### follow me GitHub page 
+### follow me GitHub page :trollface: 
