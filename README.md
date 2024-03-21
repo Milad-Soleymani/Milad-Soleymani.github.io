@@ -64,7 +64,7 @@ Yeah, sure. You can see my Portfolio in this [site](https://miladportfolio.liara
 
 <hr />
 
-## Please 🫥
+## Please 💻
 
 ### Give a star :star: for project 
 ### and
